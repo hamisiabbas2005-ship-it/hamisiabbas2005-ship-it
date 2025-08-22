@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning **Computer Programming**
 - 👯 I’m looking to collaborate on **Mobile and Backend Dev Projects**
 - 💬 Ask me about **Technology and Personal Development**
-- 📫 How to reach me: **hamisiabbas2005gmail.com
+- 📫 How to reach me: hamisiabbas2005@gmail.com
+- 
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **Gamer**
 -->
