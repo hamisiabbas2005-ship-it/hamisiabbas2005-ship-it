@@ -1,16 +1,14 @@
-## Hi there 👋
-
+## Hi there 👋      
 - 🔭 I’m currently working on **Android and IOS projects**
 - 🌱 I’m currently learning **Computer Programming**
 - 👯 I’m looking to collaborate on **Mobile and Backend Dev Projects**
 - 💬 Ask me about **Technology and Personal Development**
 - 📫 How to reach me: hamisiabbas2005@gmail.com
-- 
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **Gamer**
--->
 
-
+## About Me
+First introduced to the world of technology at the age of 10 when I had my first computer, but I was first introduced to the passion of Softare Development when I fell in love with video games and it as from ther that I decied to look for an Institute to learn Compute Programming.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/@Roalstaff) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@roalstaff) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Roalstaff) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Roalstaff) 
