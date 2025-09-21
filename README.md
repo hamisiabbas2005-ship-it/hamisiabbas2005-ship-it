@@ -33,3 +33,46 @@ Contribute to opn-source projects and collaborate with developers worldwie.
 [![](https://visitcount.itsvg.in/api?id=HAMISI&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Recent Blog Posts  
+<!-- BLOG-POST-LIST:START -->  
+If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:END -->  
+
+
+<br/>  
+
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=Chacha-A-Chacha&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+
+---
+<div align="center">
+            <a href="https://paypal.me/vvv" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
+                    align="center"
+                />
+            </a>
+            <a href="https://www.buymeacoffee.com/vvv" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+                    align="center"
+                />
+            </a>
+                <a href="https://liberapay.com/vvv" target="_blank" style="display: inline-block;">
+                    <img
+                        src="https://img.shields.io/badge/Donate-Liberapay-f6c915.svg?style=flat-square&logo=liberapay" 
+                        align="center"
+                    />
+                </a>
+            <a href="https://ko-fi.com/chachaalex" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" 
+                    align="center"
+                />
+            </a></div>
+<br />
