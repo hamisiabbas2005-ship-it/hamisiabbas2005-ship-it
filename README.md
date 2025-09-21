@@ -24,8 +24,11 @@ Contribute to opn-source projects and collaborate with developers worldwie.
 # 📊 GitHub Stats:
 <a href="http://www.github.com/hamisiabbas2005-ship-it"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hamisiabbas2005-ship-it&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/hamisiabbas005-ship-it"><img src="https://github-readme-stats.vercel.app/api?username=hamisiabbas2005-ship-it&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="hamisiabbas2005-ship-it GitHub stats" /></a>
-<a href="https://github.com/hamisi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamisi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/hamisiabbas2005-ship-it"><img src="https://github-readme-stats.vercel.app/api?username=hamisiabbas2005-ship-it&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="hamisiabbas2005-ship-it GitHub stats" /></a>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamisiabbas2005-ship-it&hide_border=true&layout=compact" align="left" /></div>  
+
+<br>
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=HAMISI&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
@@ -33,46 +36,3 @@ Contribute to opn-source projects and collaborate with developers worldwie.
 [![](https://visitcount.itsvg.in/api?id=HAMISI&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-
-<br/>  
-
-<div align="right">
-<img src="https://komarev.com/ghpvc/?username=Chacha-A-Chacha&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
----
-<div align="center">
-            <a href="https://paypal.me/vvv" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="center"
-                />
-            </a>
-            <a href="https://www.buymeacoffee.com/vvv" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a>
-                <a href="https://liberapay.com/vvv" target="_blank" style="display: inline-block;">
-                    <img
-                        src="https://img.shields.io/badge/Donate-Liberapay-f6c915.svg?style=flat-square&logo=liberapay" 
-                        align="center"
-                    />
-                </a>
-            <a href="https://ko-fi.com/chachaalex" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" 
-                    align="center"
-                />
-            </a></div>
-<br />
